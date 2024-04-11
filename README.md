@@ -33,7 +33,7 @@ These machines attack boldly and with high speed, aiming to collide with your au
 Aircraft of this type pose a threat from the air, dropping vertically falling bombs. You'll need to quickly recognize their approach and coordinate your shooting to destroy the bombs before they cause damage to your vehicle and the surrounding world.
 
 <img src="https://github.com/bubiryov/Sky-Guardian/assets/124048186/11306405-25fd-4f3e-aae6-4d212b3f716b" width="650" height="300">
-<img src="https://github.com/bubiryov/Sky-Guardian/assets/124048186/cf8f8e49-a4d3-4db3-847b-1edb08533b0b" width="650" height="300">
+<img src="https://github.com/bubiryov/Sky-Guardian/assets/124048186/ab2853a2-b4ea-4b95-bc91-708916a8c600" width="650" height="300">
 <img src="https://github.com/bubiryov/Sky-Guardian/assets/124048186/346823ac-ccbd-45e8-b6fc-eb73cbab2610" width="650" height="300">
 
 Each of these enemy objects presents a unique threat, requiring concentration, skill, and quick reflexes from you. Your mastery of the roof-mounted gun on your vehicle will be the key to victory in the challenging battle for aerial freedom in Sky Guardian!
